@@ -15,4 +15,6 @@
     <string name="dummy_photos">6 Photos</string>
     <string name="stock">Stock Hanya 5 buah</string>
     <string name="dummy_value">$735</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
 </resources>
